@@ -25,4 +25,4 @@ Here's an email regex test to help
 `/^[a-zA-Z0-9]+[a-zA-Z0-9_.-]+@[a-zA-Z0-9_-]+.([a-z]{2}|com|org|net|edu|gov|mil|biz|info|mobi|name|aero|asia|jobs|museum)$/`
 
 
-<a href='https://learn.co/lessons/user-comments' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/user-comments' title='User Comments'>User Comments</a> on Learn.co and start learning to code for free.</p>
